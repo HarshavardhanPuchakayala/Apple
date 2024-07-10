@@ -1,1 +1,3 @@
 ![image](https://github.com/HarshavardhanPuchakayala/Apple/assets/85436195/4fd0a93f-5c36-4510-a604-2e17d2f88687)
+
+I developed an iPhone 15 clone website using ReactJS, providing a seamless and dynamic user experience. The project integrates GSAP (GreenSock Animation Platform) for smooth and engaging animations, enhancing the visual appeal and interactivity of the site. Additionally, I utilized Three.js to create immersive 3D effects and components, offering users a realistic and detailed view of the iPhone 15. This combination of technologies ensures a modern and responsive design, reflecting the sleek and innovative characteristics of the actual iPhone 15.
